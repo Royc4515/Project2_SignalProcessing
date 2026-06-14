@@ -1,5 +1,7 @@
 # פרויקט 2 — עיבוד אותות במוח
 
+[🔗 צפייה במאגר המלא ב-GitHub](https://github.com/Royc4515/Project2_SignalProcessing)
+
 מטלה אישית בקורס "עיבוד אותות במוח" באוניברסיטת בר-אילן.
 בפרויקט זה מבוצע ניתוח ספקטרלי מתקדם (Spectral Analysis) של אותות EEG, תוך התמקדות בהבדלים בין מצב עיניים פקוחות (EO) למצב עיניים עצומות (EC). הפרויקט עוסק בסינון תדרים, חישוב Power Spectrum דרך FFT ו-Welch, חילוץ מדד ה-IAF (Individual Alpha Frequency), ייצוג זמן-תדר (Spectrogram), ושחזור גלי אלפא נקיים.
 

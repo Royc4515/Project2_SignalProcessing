@@ -280,7 +280,8 @@ HEAD = f"""<!doctype html>
 <div class="title-block">
   <h1>פרויקט 2 — עיבוד אותות במוח</h1>
   <div class="subtitle">Spectral Analysis, Welch PSD, and Time-Frequency Representations</div>
-  <div class="meta">Roy Carmelli · אוניברסיטת בר-אילן · מאי 2026</div>
+  <div class="meta">Roy Carmelli · אוניברסיטת בר-אילן · מאי 2026<br>
+  <a href="https://github.com/Royc4515/Project2_SignalProcessing" style="color: #0b3a66; text-decoration: none; font-weight: bold;">🔗 צפייה במאגר הפרויקט ב-GitHub</a></div>
 </div>
 """
 
