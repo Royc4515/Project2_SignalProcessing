@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+graphs/
+temp_venv/
+temp_run.py
+run_project.py
